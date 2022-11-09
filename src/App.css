@@ -1,9 +1,24 @@
 /* Add styling for your page here */
 
 .App {
-
+  background: #383838;
+  color: white;
 }
 
-.BakeryItem {
-  
+.card {
+  border: none!important;
+  height: 100%;
+}
+
+.card-body {
+  background-color: #5f427a; 
+}
+
+.card-text {
+  font-size: small;
+}
+
+.cart {
+  background-color:  #5f427a;
+  border-radius: 0.5rem;
 }
